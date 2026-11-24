@@ -1,28 +1,25 @@
 # Facebook Mobile Security Research
 
-Bu depo, Facebook mobil uygulamasının güvenlik mekanizmaları üzerine yapılan **eğitim ve araştırma çalışmalarını** paylaşmak amacıyla oluşturulmuştur.
+Want to take a closer look at how the Facebook mobile app works behind the scenes? You're in the right place.
 
-## İçerik
+This project is all about hands-on mobile security research, practical testing and useful discoveries — shared in a simple, easy-to-follow way.
 
-Bu çalışma kapsamında aşağıdaki konular ele alınır:
+## What You'll Find Here
 
-- Android ve iOS uygulamalarında SSL pinning yapısının incelenmesi
-- Yetkili test ortamlarında SSL pinning bypass süreçleri
-- Mobil uygulama trafiğinin analiz edilmesi
-- Giriş, oturum ve paylaşım akışlarının teknik olarak incelenmesi
-- İstek ve yanıt yapılarının güvenlik perspektifinden değerlendirilmesi
-- Mobil uygulama güvenliğiyle ilgili örnekler ve araştırma notları
+- SSL pinning research and bypass workflows for authorized test environments
+- Android and iOS mobile traffic analysis
+- A closer look at login, session and sharing flows
+- Request and response structure breakdowns
+- Practical mobile app security notes, examples and updates
 
-## İletişim
+Whether you're learning mobile security, exploring app traffic or looking for fresh research, follow the project and stay connected.
 
-Detaylı bilgi, güncellemeler ve paylaşımlar için Telegram üzerinden iletişime geçebilirsiniz:
+## Let's Connect
 
-**Telegram:** [@ahmet_emn7](https://t.me/ahmet_emn7)
+For updates, new content and more details, message me on Telegram:
 
-## Yasal Uyarı
+### [Join me on Telegram — @ahmet_emn7](https://t.me/ahmet_emn7)
 
-Bu depodaki içerikler yalnızca eğitim, güvenlik araştırması ve açıkça izin verilmiş testler içindir. Size ait olmayan hesaplar, cihazlar veya sistemler üzerinde izinsiz işlem yapmak hukuka aykırı olabilir.
+## Quick Note
 
-Bu proje parola toplamaz, saklamaz veya üçüncü kişilerle paylaşmaz. Kullanıcılar, gerçekleştirdikleri işlemlerden ve yürürlükteki mevzuata uymaktan kendileri sorumludur. Proje sahibi, içeriğin kötüye kullanımından doğabilecek zararlardan sorumlu değildir.
-
-> Yalnızca sahibi olduğunuz ya da test izni aldığınız sistemlerde çalışın.
+This project is made for education and authorized security research only. Always test on systems and accounts you own or have clear permission to examine. It does not collect or store passwords and is not affiliated with Facebook or Meta.
